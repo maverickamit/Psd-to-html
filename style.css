@@ -140,3 +140,17 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
+.form-inline .form-control {
+  display: inline-block;
+  width: 310px;
+  position: relative;
+  top: 10px;
+  left: -15px;
+}
+.btn-warning {
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  left: -15px;
+  font-weight: bold;
+}
