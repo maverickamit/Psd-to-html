@@ -85,3 +85,58 @@ body {
   top: -760px;
   left: 252px;
 }
+#time {
+  position: relative;
+
+  left: 250px;
+  top: -700px;
+  max-width: 800px;
+}
+#hour {
+  position: absolute;
+  top: 35px;
+  left: 48px;
+  font-size: 3rem;
+  transform: translate(-50%, -50%);
+  color: #88c9ff;
+}
+#hourtxt {
+  position: absolute;
+  top: 80px;
+  left: 48px;
+  font-size: 1rem;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+#minute {
+  position: absolute;
+  top: 35px;
+  left: 153px;
+  font-size: 3rem;
+  transform: translate(-50%, -50%);
+  color: #88c9ff;
+}
+#minutetxt {
+  position: absolute;
+  top: 80px;
+  left: 153px;
+  font-size: 1rem;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+#second {
+  position: absolute;
+  top: 35px;
+  left: 258px;
+  font-size: 3rem;
+  transform: translate(-50%, -50%);
+  color: #88c9ff;
+}
+#secondtxt {
+  position: absolute;
+  top: 80px;
+  left: 258px;
+  font-size: 1rem;
+  transform: translate(-50%, -50%);
+  color: white;
+}
