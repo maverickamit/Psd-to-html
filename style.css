@@ -1,0 +1,27 @@
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  max-width: 1519px;
+  max-height: 900px;
+}
+
+.mynav {
+  background: #007ee5;
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #f8f9fa;
+}
+.mynav h4 {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding-left: 240px;
+}
+.navbar-nav {
+  text-align: right;
+  margin-left: 390px;
+  text-transform: uppercase;
+}
