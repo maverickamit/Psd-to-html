@@ -37,3 +37,13 @@ body {
 .logo-item {
   padding-left: 15px;
 }
+#pics {
+  background-image: url("images/Banner.png");
+  background-repeat: repeat-y;
+  background-position: top;
+
+  max-width: 1519px;
+  max-height: 900px;
+  margin: 0;
+  padding: 0;
+}
