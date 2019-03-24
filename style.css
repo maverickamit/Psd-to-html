@@ -25,3 +25,15 @@ body {
   margin-left: 390px;
   text-transform: uppercase;
 }
+.nav-item {
+  padding-left: 59px;
+}
+
+.logos {
+  text-align: right;
+  margin-left: 59px;
+  text-transform: uppercase;
+}
+.logo-item {
+  padding-left: 15px;
+}
